@@ -1,5 +1,7 @@
 # Kodluyoruz İlk Repo
 
+[patika.dev profil linkim](https://app.patika.dev/hbgursoy)
+
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![](https://raw.githubusercontent.com/hbgursoy/kodluyoruzilkrepo/main/images/repo_preview.jpg)
